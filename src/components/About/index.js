@@ -1,5 +1,5 @@
 import React from "React";
-import profileImage from "../assets/photos/High Tower.jpg";
+import profileImage from "../assets/photos/highTower.png";
 
 function About() {
     return (
