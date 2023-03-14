@@ -1,5 +1,5 @@
-import React from "React";
-import myResume from "../assets/files/JoonKimResume.pdf";
+import React from "react";
+import myResume from "../../assets/files/JoonKimResume.pdf";
 import { BsCloudDownload } from "react-icons/bs";
 import { MdFoundation } from "react-icons/md";
 import { GrTechnology } from "react-icons/gr";

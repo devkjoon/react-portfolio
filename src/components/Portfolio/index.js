@@ -1,10 +1,10 @@
-import React from "React";
-import krnImg from "../assets/photos/krn.png";
-import coinspireImg from "../assets/photos/coinspire.png";
-import weatherDashImg from "../assets/photos/weather dashboard.png";
-import codeQuizImg from "../assets/photos/code quiz.png";
-import plannerImg from "../assets/photos/planner.png";
-import horiseonImg from "../assets/photos/horiseon.png";
+import React from "react";
+import krnImg from "../../assets/photos/krn.png";
+import coinspireImg from "../../assets/photos/coinspire.png";
+import weatherDashImg from "../../assets/photos/weather_dashboard.png";
+import codeQuizImg from "../../assets/photos/code quiz.png";
+import plannerImg from "../../assets/photos/planner.png";
+import horiseonImg from "../../assets/photos/horiseon.png";
 
 function Portfolio() {
   return (
