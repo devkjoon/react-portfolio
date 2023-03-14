@@ -3,7 +3,7 @@
 
 ## Description
 
-
+A react application that lets a user view an `about`, `contact`, `portfolio`, and `contact us` all in a single page. Photos of project previews will lead to deployed project page when clicked. Resume is downloadable.
 
 ## Table of Contents
 
@@ -15,7 +15,10 @@
 
 ## Built With
 
-
+- HTML
+- CSS
+- Node.js
+- React
 
 ## Installation
 
@@ -58,7 +61,11 @@ To run this appliation:
 
 ## Preview
 
+![contact](https://user-images.githubusercontent.com/114375310/225050024-449e1db1-9e97-4a7a-98f7-f6042e211596.png)
 
+![portfolio](https://user-images.githubusercontent.com/114375310/225050037-5495ddb7-f699-4f28-a75d-45246dbe5129.png)
+
+![resume](https://user-images.githubusercontent.com/114375310/225050101-6020a3f7-8646-4e38-ba45-de2d5dc06dfa.png)
 
 ## License
 
