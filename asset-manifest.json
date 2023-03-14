@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.c8a4e191.css",
+    "main.js": "/react-portfolio/static/js/main.70d5c5d1.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/horiseon.png": "/react-portfolio/static/media/horiseon.c0f42d5051c7c4be73f0.png",
+    "static/media/krn.png": "/react-portfolio/static/media/krn.e0af2137b0d6c31f613b.png",
+    "static/media/highTower.png": "/react-portfolio/static/media/highTower.495bc7be2843b5a69cf9.png",
+    "static/media/coinspire.png": "/react-portfolio/static/media/coinspire.09ead5154ebe0b96d442.png",
+    "static/media/JoonKimResume.pdf": "/react-portfolio/static/media/JoonKimResume.581cda7925c34ec73acc.pdf",
+    "static/media/weather_dashboard.png": "/react-portfolio/static/media/weather_dashboard.745fb39938624068f134.png",
+    "static/media/coding_background.png": "/react-portfolio/static/media/coding_background.08073a72cbcca7f0fb33.png",
+    "static/media/code quiz.png": "/react-portfolio/static/media/code quiz.f08daacf0b23ea6ca7b8.png",
+    "static/media/planner.png": "/react-portfolio/static/media/planner.c36600bbfdc20f388fb7.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.c8a4e191.css.map": "/react-portfolio/static/css/main.c8a4e191.css.map",
+    "main.70d5c5d1.js.map": "/react-portfolio/static/js/main.70d5c5d1.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8a4e191.css",
+    "static/js/main.70d5c5d1.js"
+  ]
+}
