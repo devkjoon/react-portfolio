@@ -11,6 +11,7 @@ A react application that lets a user view an `about`, `contact`, `portfolio`, an
 - [Installation](#installation)
 - [Usage](#usage)
 - [Preview](#preview)
+- [Deployed Link](#deployed-link)
 - [License](#license)
 
 ## Built With
@@ -66,6 +67,10 @@ To run this appliation:
 ![portfolio](https://user-images.githubusercontent.com/114375310/225050037-5495ddb7-f699-4f28-a75d-45246dbe5129.png)
 
 ![resume](https://user-images.githubusercontent.com/114375310/225050101-6020a3f7-8646-4e38-ba45-de2d5dc06dfa.png)
+
+## Deployed Link
+
+https://devkjoon.github.io/react-portfolio/
 
 ## License
 
