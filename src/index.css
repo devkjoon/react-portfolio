@@ -26,7 +26,7 @@ body {
 
 code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+        monospace;
 }
 
 header {
@@ -529,7 +529,7 @@ label {
     }
 
     footer h2,
-    footer div, 
+    footer div,
     footer p {
         text-align: center;
         width: 100%;
@@ -553,7 +553,7 @@ label {
         justify-content: space-around;
         flex-wrap: wrap;
     }
-    
+
 }
 
 @media screen and (max-width: 768px) {
